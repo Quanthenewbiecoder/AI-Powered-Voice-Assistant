@@ -1,7 +1,3 @@
-Certainly! Here's a `SECURITY.md` file tailored for your AI-Powered Voice Assistant project:
-
----
-
 # Security Policy
 
 This document outlines the security practices for the **AI-Powered Voice Assistant** project, covering how to handle vulnerabilities, report security issues, and follow best practices to secure both the frontend and backend of the application.
@@ -88,7 +84,3 @@ Once the report is received, the maintainers will assess the vulnerability and r
 ## Acknowledgements
 
 We want to thank the contributors and security researchers who help identify vulnerabilities and improve the overall security of this project.
-
----
-
-This `SECURITY.md` ensures the security of both the backend and frontend of your **AI-Powered Voice Assistant** project and offers clear steps for reporting vulnerabilities. Let me know if you'd like further adjustments!
